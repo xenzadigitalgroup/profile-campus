@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/profile-campus/static/css/main.3c28e9fa.css",
+    "main.js": "/profile-campus/static/js/main.d3f610ed.js",
+    "static/media/image2.png": "/profile-campus/static/media/image2.91c7e7567fc54eebd165.png",
+    "static/media/image1.png": "/profile-campus/static/media/image1.ec922a5e315889496965.png",
+    "static/media/kampus.jpg": "/profile-campus/static/media/kampus.392c58ebf62e8a29ee01.jpg",
+    "static/media/logoupi.png": "/profile-campus/static/media/logoupi.620e235413b9737d1b38.png",
+    "static/media/tailwind-svgrepo-com.svg": "/profile-campus/static/media/tailwind-svgrepo-com.973c73e85d4daa24b257ba20298716c4.svg",
+    "index.html": "/profile-campus/index.html",
+    "main.3c28e9fa.css.map": "/profile-campus/static/css/main.3c28e9fa.css.map",
+    "main.d3f610ed.js.map": "/profile-campus/static/js/main.d3f610ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c28e9fa.css",
+    "static/js/main.d3f610ed.js"
+  ]
+}
