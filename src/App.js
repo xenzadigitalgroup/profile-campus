@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import CampusProfile from './components/CampusProfile';
 import CampusDetails from './components/CampusDetails';
@@ -14,18 +14,16 @@ const App = () => {
                 <Header />
                 <div className="max-w-4xl mx-auto p-4">
                     <Routes>
-                        {/* Home route dengan CampusProfile, CreatorInfo, dan CampusDetails */}
                         <Route 
                             path="/" 
                             element={
                                 <>
                                     <CampusProfile />
                                     <CampusDetails />
-                                    <CreatorInfo /> {/* Menampilkan informasi pembuat */}
+                                    <CreatorInfo />
                                 </>
                             } 
                         />
-                        {/* Route untuk halaman all-news */}
                         <Route path="/all-news" element={<AllNews />} />
                     </Routes>
                 </div>
