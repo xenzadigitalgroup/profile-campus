@@ -1,7 +1,7 @@
 ## Preview
 
-![Preview](assets/images/preview1.png)
-![Preview](assets/images/preview2.png)
+![Preview](assets/src/images/preview1.png)
+![Preview](assets/src/images/preview2.png)
 
 
 ##
